@@ -1,2 +1,2 @@
-Training variance explained: 92.4%
-Test variance explained: 44.0%
+Training variance explained: 92.3%
+Test variance explained: 44.8%
